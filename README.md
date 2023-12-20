@@ -1,7 +1,7 @@
 # Hospital Management System
 - C# dilinde yazılmış bir programdır.
 - Visual Stdudio'nun içindeki SQL veri tabanı kullanılmıştır.
-
+- Visual Stdio'nun içindeki Araç Ktusuna ayrıyeten ek iki tool ekledim bunları gerekli dosyaların içinde bulabilirsiniz.
 
 
 ## TABLOLAR
