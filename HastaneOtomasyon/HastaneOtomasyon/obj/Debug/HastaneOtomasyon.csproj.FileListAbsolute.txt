@@ -1,0 +1,198 @@
+C:\Users\HASANN\Desktop\Proje\PROJE DOSYA\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\HastaneOtomasyon.exe.config
+C:\Users\HASANN\Desktop\Proje\PROJE DOSYA\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\HastaneOtomasyon.exe
+C:\Users\HASANN\Desktop\Proje\PROJE DOSYA\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\HastaneOtomasyon.pdb
+C:\Users\HASANN\Desktop\Proje\PROJE DOSYA\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.csproj.AssemblyReference.cache
+C:\Users\HASANN\Desktop\Proje\PROJE DOSYA\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.Properties.Resources.resources
+C:\Users\HASANN\Desktop\Proje\PROJE DOSYA\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.csproj.GenerateResource.cache
+C:\Users\HASANN\Desktop\Proje\PROJE DOSYA\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.csproj.CoreCompileInputs.cache
+C:\Users\HASANN\Desktop\Proje\PROJE DOSYA\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.csproj.CopyComplete
+C:\Users\HASANN\Desktop\Proje\PROJE DOSYA\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.exe
+C:\Users\HASANN\Desktop\Proje\PROJE DOSYA\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.pdb
+C:\Users\HASANN\Desktop\Proje\PROJE DOSYA\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.Doctors.resources
+C:\Users\HASANN\Desktop\Proje\PROJE DOSYA\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.LabTest.resources
+C:\Users\HASANN\Desktop\Proje\PROJE DOSYA\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.Patient.resources
+C:\Users\HASANN\Desktop\Proje\PROJE DOSYA\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.Prescriptions.resources
+C:\Users\HASANN\Desktop\Proje\PROJE DOSYA\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.Receotionist.resources
+C:\Users\HASANN\Desktop\Proje\PROJE DOSYA\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.Menu.resources
+C:\Users\HASANN\Desktop\Proje\PROJE DOSYA\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.Login.resources
+C:\Users\HASANN\Desktop\Proje\PROJE DOSYA\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\HASANN\Desktop\Proje\PROJE DOSYA\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\Google.Protobuf.dll
+C:\Users\HASANN\Desktop\Proje\PROJE DOSYA\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\GumroadLicensing.dll
+C:\Users\HASANN\Desktop\Proje\PROJE DOSYA\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\HASANN\Desktop\Proje\PROJE DOSYA\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\HASANN\Desktop\Proje\PROJE DOSYA\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\HASANN\Desktop\Proje\PROJE DOSYA\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\Kimtoo.BindingProvider.dll
+C:\Users\HASANN\Desktop\Proje\PROJE DOSYA\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\Kimtoo.ButtonGroup.dll
+C:\Users\HASANN\Desktop\Proje\PROJE DOSYA\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\Kimtoo.DbManager.dll
+C:\Users\HASANN\Desktop\Proje\PROJE DOSYA\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\Kimtoo.Preloader.dll
+C:\Users\HASANN\Desktop\Proje\PROJE DOSYA\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\Kimtoo.Reports.dll
+C:\Users\HASANN\Desktop\Proje\PROJE DOSYA\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\Kimtoo.ThemeFactory.dll
+C:\Users\HASANN\Desktop\Proje\PROJE DOSYA\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\Kimtoo.ValidationProvider.dll
+C:\Users\HASANN\Desktop\Proje\PROJE DOSYA\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\HASANN\Desktop\Proje\PROJE DOSYA\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\MySql.Data.dll
+C:\Users\HASANN\Desktop\Proje\PROJE DOSYA\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\NavigationMenu.dll
+C:\Users\HASANN\Desktop\Proje\PROJE DOSYA\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\Newtonsoft.Json.dll
+C:\Users\HASANN\Desktop\Proje\PROJE DOSYA\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\Npgsql.dll
+C:\Users\HASANN\Desktop\Proje\PROJE DOSYA\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\OpenHtmlToPdf.dll
+C:\Users\HASANN\Desktop\Proje\PROJE DOSYA\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\HASANN\Desktop\Proje\PROJE DOSYA\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\ServiceStack.Common.dll
+C:\Users\HASANN\Desktop\Proje\PROJE DOSYA\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\ServiceStack.Interfaces.dll
+C:\Users\HASANN\Desktop\Proje\PROJE DOSYA\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\ServiceStack.OrmLite.dll
+C:\Users\HASANN\Desktop\Proje\PROJE DOSYA\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\ServiceStack.OrmLite.MySql.dll
+C:\Users\HASANN\Desktop\Proje\PROJE DOSYA\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\ServiceStack.OrmLite.Oracle.dll
+C:\Users\HASANN\Desktop\Proje\PROJE DOSYA\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\ServiceStack.OrmLite.PostgreSQL.dll
+C:\Users\HASANN\Desktop\Proje\PROJE DOSYA\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\ServiceStack.OrmLite.SqlServer.dll
+C:\Users\HASANN\Desktop\Proje\PROJE DOSYA\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\ServiceStack.Text.dll
+C:\Users\HASANN\Desktop\Proje\PROJE DOSYA\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\System.Buffers.dll
+C:\Users\HASANN\Desktop\Proje\PROJE DOSYA\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\System.Memory.dll
+C:\Users\HASANN\Desktop\Proje\PROJE DOSYA\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\HASANN\Desktop\Proje\PROJE DOSYA\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\HASANN\Desktop\Proje\PROJE DOSYA\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\HASANN\Desktop\Proje\PROJE DOSYA\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\System.Text.Json.dll
+C:\Users\HASANN\Desktop\Proje\PROJE DOSYA\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\HASANN\Desktop\Proje\PROJE DOSYA\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\System.ValueTuple.dll
+C:\Users\HASANN\Desktop\Proje\PROJE DOSYA\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\Google.Protobuf.pdb
+C:\Users\HASANN\Desktop\Proje\PROJE DOSYA\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\Google.Protobuf.xml
+C:\Users\HASANN\Desktop\Proje\PROJE DOSYA\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\HASANN\Desktop\Proje\PROJE DOSYA\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\HASANN\Desktop\Proje\PROJE DOSYA\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\HASANN\Desktop\Proje\PROJE DOSYA\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\HASANN\Desktop\Proje\PROJE DOSYA\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\MySql.Data.xml
+C:\Users\HASANN\Desktop\Proje\PROJE DOSYA\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\Newtonsoft.Json.xml
+C:\Users\HASANN\Desktop\Proje\PROJE DOSYA\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\Npgsql.xml
+C:\Users\HASANN\Desktop\Proje\PROJE DOSYA\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\ServiceStack.Common.xml
+C:\Users\HASANN\Desktop\Proje\PROJE DOSYA\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\ServiceStack.OrmLite.xml
+C:\Users\HASANN\Desktop\Proje\PROJE DOSYA\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\ServiceStack.OrmLite.MySql.xml
+C:\Users\HASANN\Desktop\Proje\PROJE DOSYA\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\ServiceStack.OrmLite.Oracle.xml
+C:\Users\HASANN\Desktop\Proje\PROJE DOSYA\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\ServiceStack.OrmLite.PostgreSQL.xml
+C:\Users\HASANN\Desktop\Proje\PROJE DOSYA\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\ServiceStack.OrmLite.SqlServer.xml
+C:\Users\HASANN\Desktop\Proje\PROJE DOSYA\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\ServiceStack.Text.xml
+C:\Users\HASANN\Desktop\Proje\PROJE DOSYA\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\System.Buffers.xml
+C:\Users\HASANN\Desktop\Proje\PROJE DOSYA\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\System.Memory.xml
+C:\Users\HASANN\Desktop\Proje\PROJE DOSYA\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\HASANN\Desktop\Proje\PROJE DOSYA\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\HASANN\Desktop\Proje\PROJE DOSYA\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\HASANN\Desktop\Proje\PROJE DOSYA\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\System.Text.Json.xml
+C:\Users\HASANN\Desktop\Proje\PROJE DOSYA\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\HASANN\Desktop\Proje\PROJE DOSYA\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\System.ValueTuple.xml
+C:\Users\HASANN\Desktop\Proje\PROJE DOSYA\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\HASANN\Desktop\Proje\PROJE DOSYA\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\HASANN\Desktop\Proje\PROJE DOSYA\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\HASANN\Desktop\Proje\PROJE DOSYA\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\HASANN\Desktop\Proje\PROJE DOSYA\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\System.Collections.Immutable.dll
+C:\Users\HASANN\Desktop\Proje\PROJE DOSYA\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\HASANN\Desktop\Proje\PROJE DOSYA\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\HASANN\Desktop\Proje\PROJE DOSYA\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\System.IO.Pipelines.dll
+C:\Users\HASANN\Desktop\Proje\PROJE DOSYA\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\System.Threading.Channels.dll
+C:\Users\HASANN\Desktop\Proje\PROJE DOSYA\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\ZstdSharp.dll
+C:\Users\HASANN\Desktop\Proje\PROJE DOSYA\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\HASANN\Desktop\Proje\PROJE DOSYA\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\HASANN\Desktop\Proje\PROJE DOSYA\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\HASANN\Desktop\Proje\PROJE DOSYA\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\HASANN\Desktop\Proje\PROJE DOSYA\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\System.Collections.Immutable.xml
+C:\Users\HASANN\Desktop\Proje\PROJE DOSYA\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\HASANN\Desktop\Proje\PROJE DOSYA\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\HASANN\Desktop\Proje\PROJE DOSYA\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\System.IO.Pipelines.xml
+C:\Users\HASANN\Desktop\Proje\PROJE DOSYA\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\System.Threading.Channels.xml
+C:\Users\HASANN\Desktop\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\HastaneOtomasyon.exe.config
+C:\Users\HASANN\Desktop\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\HastaneOtomasyon.exe
+C:\Users\HASANN\Desktop\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\HastaneOtomasyon.pdb
+C:\Users\HASANN\Desktop\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\HASANN\Desktop\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\HASANN\Desktop\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\Google.Protobuf.dll
+C:\Users\HASANN\Desktop\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\GumroadLicensing.dll
+C:\Users\HASANN\Desktop\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\HASANN\Desktop\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\HASANN\Desktop\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\HASANN\Desktop\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\Kimtoo.BindingProvider.dll
+C:\Users\HASANN\Desktop\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\Kimtoo.ButtonGroup.dll
+C:\Users\HASANN\Desktop\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\Kimtoo.DbManager.dll
+C:\Users\HASANN\Desktop\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\Kimtoo.Preloader.dll
+C:\Users\HASANN\Desktop\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\Kimtoo.Reports.dll
+C:\Users\HASANN\Desktop\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\Kimtoo.ThemeFactory.dll
+C:\Users\HASANN\Desktop\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\Kimtoo.ValidationProvider.dll
+C:\Users\HASANN\Desktop\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\HASANN\Desktop\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\HASANN\Desktop\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\HASANN\Desktop\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\HASANN\Desktop\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\MySql.Data.dll
+C:\Users\HASANN\Desktop\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\NavigationMenu.dll
+C:\Users\HASANN\Desktop\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\Newtonsoft.Json.dll
+C:\Users\HASANN\Desktop\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\Npgsql.dll
+C:\Users\HASANN\Desktop\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\OpenHtmlToPdf.dll
+C:\Users\HASANN\Desktop\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\HASANN\Desktop\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\ServiceStack.Common.dll
+C:\Users\HASANN\Desktop\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\ServiceStack.Interfaces.dll
+C:\Users\HASANN\Desktop\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\ServiceStack.OrmLite.dll
+C:\Users\HASANN\Desktop\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\ServiceStack.OrmLite.MySql.dll
+C:\Users\HASANN\Desktop\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\ServiceStack.OrmLite.Oracle.dll
+C:\Users\HASANN\Desktop\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\ServiceStack.OrmLite.PostgreSQL.dll
+C:\Users\HASANN\Desktop\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\ServiceStack.OrmLite.SqlServer.dll
+C:\Users\HASANN\Desktop\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\ServiceStack.Text.dll
+C:\Users\HASANN\Desktop\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\System.Buffers.dll
+C:\Users\HASANN\Desktop\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\System.Collections.Immutable.dll
+C:\Users\HASANN\Desktop\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\HASANN\Desktop\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\HASANN\Desktop\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\System.IO.Pipelines.dll
+C:\Users\HASANN\Desktop\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\System.Memory.dll
+C:\Users\HASANN\Desktop\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\HASANN\Desktop\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\HASANN\Desktop\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\HASANN\Desktop\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\System.Text.Json.dll
+C:\Users\HASANN\Desktop\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\System.Threading.Channels.dll
+C:\Users\HASANN\Desktop\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\HASANN\Desktop\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\System.ValueTuple.dll
+C:\Users\HASANN\Desktop\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\ZstdSharp.dll
+C:\Users\HASANN\Desktop\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\HASANN\Desktop\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\Google.Protobuf.pdb
+C:\Users\HASANN\Desktop\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\Google.Protobuf.xml
+C:\Users\HASANN\Desktop\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\HASANN\Desktop\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\HASANN\Desktop\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\HASANN\Desktop\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\HASANN\Desktop\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\HASANN\Desktop\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\HASANN\Desktop\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\HASANN\Desktop\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\MySql.Data.xml
+C:\Users\HASANN\Desktop\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\Newtonsoft.Json.xml
+C:\Users\HASANN\Desktop\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\Npgsql.xml
+C:\Users\HASANN\Desktop\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\ServiceStack.Common.xml
+C:\Users\HASANN\Desktop\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\ServiceStack.OrmLite.xml
+C:\Users\HASANN\Desktop\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\ServiceStack.OrmLite.MySql.xml
+C:\Users\HASANN\Desktop\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\ServiceStack.OrmLite.Oracle.xml
+C:\Users\HASANN\Desktop\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\ServiceStack.OrmLite.PostgreSQL.xml
+C:\Users\HASANN\Desktop\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\ServiceStack.OrmLite.SqlServer.xml
+C:\Users\HASANN\Desktop\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\ServiceStack.Text.xml
+C:\Users\HASANN\Desktop\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\System.Buffers.xml
+C:\Users\HASANN\Desktop\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\System.Collections.Immutable.xml
+C:\Users\HASANN\Desktop\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\HASANN\Desktop\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\HASANN\Desktop\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\System.IO.Pipelines.xml
+C:\Users\HASANN\Desktop\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\System.Memory.xml
+C:\Users\HASANN\Desktop\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\HASANN\Desktop\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\HASANN\Desktop\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\HASANN\Desktop\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\System.Text.Json.xml
+C:\Users\HASANN\Desktop\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\System.Threading.Channels.xml
+C:\Users\HASANN\Desktop\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\HASANN\Desktop\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\System.ValueTuple.xml
+C:\Users\HASANN\Desktop\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.csproj.AssemblyReference.cache
+C:\Users\HASANN\Desktop\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.Doctors.resources
+C:\Users\HASANN\Desktop\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.LabTest.resources
+C:\Users\HASANN\Desktop\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.Login.resources
+C:\Users\HASANN\Desktop\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.Menu.resources
+C:\Users\HASANN\Desktop\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.Patient.resources
+C:\Users\HASANN\Desktop\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.Prescriptions.resources
+C:\Users\HASANN\Desktop\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.Properties.Resources.resources
+C:\Users\HASANN\Desktop\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.Receotionist.resources
+C:\Users\HASANN\Desktop\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.csproj.GenerateResource.cache
+C:\Users\HASANN\Desktop\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.csproj.CoreCompileInputs.cache
+C:\Users\HASANN\Desktop\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.csproj.CopyComplete
+C:\Users\HASANN\Desktop\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.exe
+C:\Users\HASANN\Desktop\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.pdb
+C:\Users\HASANN\Desktop\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.Reçete.resources
+C:\Users\HASANN\Desktop\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\HastaneOtomasyon.exe.manifest
+C:\Users\HASANN\Desktop\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\HastaneOtomasyon.application
+C:\Users\HASANN\Desktop\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.exe.manifest
+C:\Users\HASANN\Desktop\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.application
+C:\Users\HASANN\Desktop\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.DoktorYeni.resources
